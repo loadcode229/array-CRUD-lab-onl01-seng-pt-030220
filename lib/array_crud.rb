@@ -4,13 +4,9 @@ end
 def create_an_array
   space = ["Sun", "Earth", "Mars", "Saturn"]
 end
-
 def add_element_to_end_of_aray(array, element)
-  
-  
-  
+  space.push("Pluto")
 end
-
 def add_element_to_start_of_array(array, element)
   
 end
