@@ -5,8 +5,9 @@ def create_an_array
   space = ["Sun", "Earth", "Mars", "Saturn"]
 end
 
-def add_element_to_end_of_ar
-  ay(array, element)
+def add_element_to_end_of_aray(array, element)
+  
+  
   
 end
 
